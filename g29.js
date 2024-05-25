@@ -131,12 +131,6 @@ g.on('wheel-spinner', async function(val) { // Volume Control
 });
 
 g.on('wheel-button_spinner', async function() { // Volume Mute
-    const isMuted = await loudness.getMuted();
-    if (isMuted) {
-        g.leds('');
-        await loudness.setMuted(false);
-    } else {
         g.leds('00001');
         await loudness.setMuted(true);
-    }
 });
