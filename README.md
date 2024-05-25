@@ -16,7 +16,7 @@ Issues/Bugs? Add me on Discord: nznp
 ## Donate
 This program is free and will always be free. You can support me by donating :)\
 
-- Credit Card: https://buymeacoffee.com/aki0 \
+- Credit Card: https://buymeacoffee.com/aki0
 - Bitcoin: `bc1qjdxjqlnu82ekrhw06t6zcnu9pangxcf5wjxf45`
 - Ethereum: `0xa1b7d31E5d744DfdD3B184388800Bc04c9306E40`
 - Litecoin: `ltc1qs23tmcf90vhfhrrx5jwz73erchtq0hfc7y9q53`
