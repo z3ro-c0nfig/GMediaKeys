@@ -14,7 +14,7 @@ Issues/Bugs? Add me on Discord: nznp
 
 ![screenshot](https://cdn.discordapp.com/attachments/1225889212411285526/1244026868655718460/image.png?ex=66539dce&is=66524c4e&hm=d4edd08715cb51a30a843f107973459886dc76612282c884ff7c50b765705577&)
 ## Donate
-This program is free and will always be free. You can support me by donating :)\
+This program is free and will always be free. You can support me by donating :)
 
 - Credit Card: https://buymeacoffee.com/aki0
 - Bitcoin: `bc1qjdxjqlnu82ekrhw06t6zcnu9pangxcf5wjxf45`
