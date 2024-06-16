@@ -12,7 +12,7 @@ Replaces the red wheel with a volume control (Logitech G29)
 Issues/Bugs? Add me on Discord: nznp
 ## Screenshots
 
-[![screenshot](https://cdn.discordapp.com/attachments/1225889212411285526/1244026868655718460/image.png?ex=66539dce&is=66524c4e&hm=d4edd08715cb51a30a843f107973459886dc76612282c884ff7c50b765705577&)](https://github.com/z3ro-c0nfig/GMediaKeys/blob/main/screenshot.png?raw=true)
+![screenshot](https://github.com/z3ro-c0nfig/GMediaKeys/blob/main/screenshot.png?raw=true)
 ## Donate
 This program is free and will always be free. You can support me by donating :)
 
